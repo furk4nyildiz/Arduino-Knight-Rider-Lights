@@ -7,10 +7,10 @@ for (int i = 8; i <= 13 ; i++) {
 void loop() {
 for (int i = 8; i <= 13 ; i++) { 
   digitalWrite(i, HIGH); 
-  delay(1000); 
+  delay(150); 
 }
 for (int i = 13; i >= 8 ; i--) { 
   digitalWrite(i, LOW); 
-  delay(1000);
+  delay(150);
 }
 }
