@@ -1,4 +1,4 @@
-# Arduino-Knight Rider Lights
+# Arduino Knight Rider Lights
 
 Knight Rider Kitt Lighting
 
